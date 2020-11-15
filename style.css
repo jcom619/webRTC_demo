@@ -1,0 +1,23 @@
+body {
+  background: #f7f7f7;
+  margin: 0;
+  padding: 0;
+}
+
+.center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#video-container {
+  margin: 2em auto 0;
+  width: 500px;
+  padding: 2em;
+  background: white;
+  -webkit-box-shadow: 0 1px 10px #d9d9d9;
+  -moz-box-shadow: 0 1px 10px #d9d9d9;
+  -ms-box-shadow: 0 1px 10px #d9d9d9;
+  -o-box-shadow: 0 1px 10px #d9d9d9;
+  box-shadow: 0 1px 10px #d9d9d9;
+}
